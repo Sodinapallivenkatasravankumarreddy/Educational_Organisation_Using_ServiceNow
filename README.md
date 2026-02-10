@@ -1,1 +1,1 @@
-# Educational_Organisation_using_ServiceNow
+# Educational_Organisation_Using_ServiceNow
