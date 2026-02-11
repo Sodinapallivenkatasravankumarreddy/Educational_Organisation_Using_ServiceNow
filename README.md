@@ -9,9 +9,9 @@ A ServiceNow-based application that automates student admissions, academic track
 Team ID: LTVIP2026TMIDS79862
 Team Leader: Manohar Udayagiri
 
-Team Members
-• Obili Ramteja
-• Ramavathu Durga Prasad Naik
+Team Members 
+• Obili Ramteja 
+• Ramavathu Durga Prasad Naik 
 • Sodinapalli Venkata Sravan Kumar Reddy
 
 ────────────────────────────────
